@@ -65,5 +65,6 @@ DBSCAN-From-Scratch/
 
 ## 👤 Author
 
-**Morteza Pazhoum** — [@MortezaPZ](https://github.com/MortezaPZ)  
-3rd-year CS Student, K.N. Toosi University of Technology
+Morteza Pazhoum — @MortezaPZ
+
+K.N. Toosi University of Technology — Computer Science
